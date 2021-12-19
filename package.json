@@ -1,0 +1,22 @@
+{
+  "name": "ant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fenExtract.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferrodim/ant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferrodim/ant/issues"
+  },
+  "homepage": "https://github.com/ferrodim/ant#readme",
+  "dependencies": {
+    "jest": "^27.4.4"
+  }
+}
